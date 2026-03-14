@@ -1,2 +1,0 @@
-# thuya
-thuya
